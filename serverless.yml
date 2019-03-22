@@ -1,0 +1,14 @@
+service: imdb-scraper
+
+provider:
+  name: aws
+  runtime: python3.6
+
+package:
+  artifact: package.zip
+
+functions:
+  imdb_scrape:
+    handler: main.scrape
+    environment:
+      PATH: /var/task/bin
