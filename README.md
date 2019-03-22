@@ -1,4 +1,4 @@
-# web-scraper-imdb
+# IMDB WEB SCRAPER
 
 run pip install -r requirements.txt at your console
 configure your AWS
