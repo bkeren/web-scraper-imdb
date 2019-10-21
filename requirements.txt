@@ -68,7 +68,7 @@ fastcache==1.0.2
 fasteners==0.14.1
 fastparquet==0.1.4
 feather-format==0.4.0
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.3
 formlayout==1.1.0
 fuzzywuzzy==0.16.0
