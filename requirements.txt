@@ -175,7 +175,7 @@ pep8==1.7.1
 pexpect==4.4.0
 pg8000==1.11.0
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow==6.2.0
 pkginfo==1.4.2
 plotnine==0.3.0
 pluggy==0.6.0
