@@ -183,7 +183,7 @@ ply==3.11
 prettytable==0.7.2
 prompt-toolkit==1.0.15
 protobuf==3.5.2
-psutil==5.4.3
+psutil==5.6.6
 ptpython==0.41
 ptyprocess==0.5.2
 PuLP==1.6.8
